@@ -1,0 +1,5 @@
+git checkout feature/IJ-11-evaluacion-hailidades
+echo "//banco de preguntas" > backend/evaluaciones/preguntas.js
+git add .
+git commit -m "IJ-11 feat(evaluacion): crear banco de preguntas"
+git push origin feature/IJ-11-evaluacion-habilidades
